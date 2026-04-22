@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Hi there 👋 I'm Alya Ahmed<br><br>🎓 Computer and Communications Engineering Student (Class of 2027)<br>📊 Data Science Enthusiast | 🧠 Product-Minded Builder<br><br>🔭 Currently Working On<br><br>* Data analysis projects using **Python, SQL, and Power BI**<br>* Exploring real-world datasets and extracting actionable insights<br>* Building web projects with a focus on **user experience and product thinking**<br><br>🌱 Currently Learning<br><br>* Machine Learning (Decision Trees, Random Forests, Neural Networks)<br>* Statistics & Linear Algebra for Data Science<br>* Product Management concepts (Agile, A/B Testing, Product Strategy)<br><br>🧠 What Drives Me<br><br>I’m deeply interested in understanding **why products are built**, not just how.<br>I enjoy analyzing user needs, validating ideas, and using data to guide decisions and improve products.<br><br>👯 Looking to Collaborate On<br><br>* Data analysis & visualization projects<br>* Beginner-friendly machine learning projects<br>* Product case studies & idea validation projects<br><br>💬 Ask Me About<br><br>* Data analysis with Python<br>* Data structures & problem solving<br>* Turning ideas into structured product concepts<br><br>⚡ Fun Fact<br><br>If there’s ice cream involved, I’ll probably turn it into a product idea experiment 🍦📈
 
-<!--
-**alyaahmedd/alyaahmedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=alyaahmedd&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=alyaahmedd&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alyaahmedd&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=alyaahmedd&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
